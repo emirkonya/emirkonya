@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Emir 👋
 
-<!--
-**emirkonya/emirkonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** focused on building practical projects and improving my skills by doing.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- Building real-world projects to strengthen my fundamentals
+- Writing clean, readable, and maintainable code
+- Continuously learning new technologies and best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Languages: Python, JavaScript, SQL  
+- Tools: Git, GitHub, VS Code  
+- Currently learning: Backend development & data structures
+
+## 📌 Goals
+- Contribute to open-source projects  
+- Build a solid portfolio of meaningful projects  
+- Grow as a problem-solving developer
+
+## 🤝 Let's connect
+- GitHub: [@emirkonya](https://github.com/emirkonya)
